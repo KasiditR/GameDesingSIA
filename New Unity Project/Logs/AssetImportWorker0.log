@@ -1,0 +1,800 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 8088 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Name\Unity\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Name/Gi344/Game/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62733
+Successfully changed project path to: D:/Name/Gi344/Game/New Unity Project
+D:/Name/Gi344/Game/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path D:/Name/Unity/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Name/Gi344/Game/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 8500M (ID=0x666f)
+    Vendor:   
+    VRAM:     2039 MB
+    Driver:   27.20.21002.112
+Initialize mono
+Mono path[0] = 'D:/Name/Unity/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Name/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Name/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Name/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Name/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003193 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 50.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.537 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001116 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.791 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 3.045600 ms (FindLiveObjects: 0.236500 ms CreateObjectMapping: 0.122900 ms MarkObjects: 2.548300 ms  DeleteObjects: 0.135700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Ground/Ground 1.fbx
+  artifactKey: Guid(19dd30a546f55054494b17f0814db3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/Ground 1.fbx using Guid(19dd30a546f55054494b17f0814db3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034861ffc2459d95fda8c622057ea4d7') in 1.378072 seconds
+  Import took 1.409756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.540421 seconds.
+  path: Assets/Ground/UVGround 1.png
+  artifactKey: Guid(b5880b7d2dbcb534caf0f5c2431571be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/UVGround 1.png using Guid(b5880b7d2dbcb534caf0f5c2431571be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cf98f4305afa57345a305840ec868a') in 0.282826 seconds
+  Import took 0.306447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.091579 seconds.
+  path: Assets/Ground/UVGround.psd
+  artifactKey: Guid(26ff878bfafe16846a1e4fdbbac513c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/UVGround.psd using Guid(26ff878bfafe16846a1e4fdbbac513c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff906a432a1daec5b8e888503fc085f') in 0.157717 seconds
+  Import took 0.243521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.722938 seconds.
+  path: Assets/Ground/Ground 1.prefab
+  artifactKey: Guid(3102958b590b23f459ef1173b6d488f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/Ground 1.prefab using Guid(3102958b590b23f459ef1173b6d488f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac82783a673a6f2b6ef40faf035db092') in 0.084851 seconds
+  Import took 0.107617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.786072 seconds.
+  path: Assets/Ground/UNDERwater.fbx
+  artifactKey: Guid(17682e6003d67154aa0e4b15e290e585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/UNDERwater.fbx using Guid(17682e6003d67154aa0e4b15e290e585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae08ea5dabee700ab58001763aac142d') in 0.054653 seconds
+  Import took 0.061986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.031828 seconds.
+  path: Assets/River
+  artifactKey: Guid(2f44eac74d034184aa28b0b46a0b8354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/River using Guid(2f44eac74d034184aa28b0b46a0b8354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f55cf62a7cb573101afafd623827d53') in 0.015837 seconds
+  Import took 0.021667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 890.472260 seconds.
+  path: Assets/River/Wather.fbx
+  artifactKey: Guid(504e6820afcc9c04d9fe6ed5603646d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/River/Wather.fbx using Guid(504e6820afcc9c04d9fe6ed5603646d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864e4890d4b7f2f84c4ff6601f5dbf07') in 0.124235 seconds
+  Import took 0.146961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.835432 seconds.
+  path: Assets/Ground/Wather.prefab
+  artifactKey: Guid(04e0412c231208b4fb350436aa98464c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/Wather.prefab using Guid(04e0412c231208b4fb350436aa98464c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f37fb10a0b59e3a7b6621c74622b4f') in 0.028346 seconds
+  Import took 0.063189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.104502 seconds.
+  path: Assets/Ground/UNDERwater.prefab
+  artifactKey: Guid(b54165a0071215c4f9cdeff206dd139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/UNDERwater.prefab using Guid(b54165a0071215c4f9cdeff206dd139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82875616c468e3d33204c5724cc8bac4') in 0.034056 seconds
+  Import took 0.042405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021268 seconds.
+  path: Assets/Ground/UNDERwater.prefab
+  artifactKey: Guid(b54165a0071215c4f9cdeff206dd139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground/UNDERwater.prefab using Guid(b54165a0071215c4f9cdeff206dd139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82875616c468e3d33204c5724cc8bac4') in 0.020821 seconds
+  Import took 0.039722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 254.750320 seconds.
+  path: Assets/Temple
+  artifactKey: Guid(110ca31d728b9ad4fa8fb7d1bd01aabe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple using Guid(110ca31d728b9ad4fa8fb7d1bd01aabe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2eae3c050409adfda927aca352adbae') in 0.020504 seconds
+  Import took 0.038169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.629301 seconds.
+  path: Assets/Temple/Temple.fbx
+  artifactKey: Guid(90dd4338d32068246bf1dfb3bb720315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.fbx using Guid(90dd4338d32068246bf1dfb3bb720315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a45ce37b02dc5fbba1975919017902') in 0.071584 seconds
+  Import took 0.159551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.296343 seconds.
+  path: Assets/Temple/Temple.png
+  artifactKey: Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.png using Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269c90cd2ff586704fd6aa0e3b6efd53') in 0.082383 seconds
+  Import took 0.109987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 961.186989 seconds.
+  path: Assets/Temple/Temple.png
+  artifactKey: Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.png using Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f26be085d4a5aa10146dd1eb125d9f') in 0.128186 seconds
+  Import took 0.137422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 629.738185 seconds.
+  path: Assets/Temple/Temple.png
+  artifactKey: Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.png using Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f897f5fdc87e9df271ffc5ada0f7737f') in 0.057272 seconds
+  Import took 0.083187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.603126 seconds.
+  path: Assets/Temple/Temple.png
+  artifactKey: Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.png using Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e3c6ac43afcd73267456037306539a') in 0.044943 seconds
+  Import took 0.079441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.316375 seconds.
+  path: Assets/Temple/Temple.png
+  artifactKey: Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.png using Guid(5e7077c5bd88b3a4f9f77c2965d1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033b886e36e75b0066241215ab192804') in 0.042500 seconds
+  Import took 0.048568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 649.837186 seconds.
+  path: Assets/Temple/Temple.fbx
+  artifactKey: Guid(90dd4338d32068246bf1dfb3bb720315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.fbx using Guid(90dd4338d32068246bf1dfb3bb720315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532097c2869450f56026e1210ac4373e') in 1.695944 seconds
+  Import took 1.724655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.167992 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(a301009759bd2a3449b5b7a936968dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(a301009759bd2a3449b5b7a936968dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c61210e08ee159c6d7d813b9afa7977') in 0.067166 seconds
+  Import took 0.150363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.532493 seconds.
+  path: Assets/Graveyard
+  artifactKey: Guid(a301009759bd2a3449b5b7a936968dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard using Guid(a301009759bd2a3449b5b7a936968dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bcc92c037216196d1564c109438c8f') in 0.016055 seconds
+  Import took 0.092743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.507519 seconds.
+  path: Assets/Graveyard/graveyard_1.fbx
+  artifactKey: Guid(13bb8f01286dc0249b3e8e8d3365fc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_1.fbx using Guid(13bb8f01286dc0249b3e8e8d3365fc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc05edfedb038864cdc2d946076dea0a') in 0.127115 seconds
+  Import took 0.135605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Graveyard/graveyard_2.fbx
+  artifactKey: Guid(be87e31b8d56c54478b2546bebf3ca37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_2.fbx using Guid(be87e31b8d56c54478b2546bebf3ca37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843034179595143b85db9c7047f536b7') in 0.109218 seconds
+  Import took 0.145627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Graveyard/graveyard_3.fbx
+  artifactKey: Guid(d7c3a8805898f084f9f2bc3fe6af3d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_3.fbx using Guid(d7c3a8805898f084f9f2bc3fe6af3d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15b4bde13fe0c1c8ec0c65b12646b7f') in 0.073392 seconds
+  Import took 0.109389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Graveyard/graveyard_6.fbx
+  artifactKey: Guid(ab8b3017eedff044c8d26a5680b7e334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_6.fbx using Guid(ab8b3017eedff044c8d26a5680b7e334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcbcc95b313acffd676d4896e913701a') in 0.214391 seconds
+  Import took 0.219344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Graveyard/graveyard_4.fbx
+  artifactKey: Guid(17ae5d549518ed040ae2a65d71af1292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_4.fbx using Guid(17ae5d549518ed040ae2a65d71af1292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a0a4cddd96458cd1e81794852d3e50') in 0.103378 seconds
+  Import took 0.123543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/Graveyard/graveyard_5.fbx
+  artifactKey: Guid(3e79c7eb53342fc46ab58d26656c144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_5.fbx using Guid(3e79c7eb53342fc46ab58d26656c144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1834609cbb199452bdf1273a9aefb4f') in 0.062886 seconds
+  Import took 0.071507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002369 seconds.
+  path: Assets/Graveyard/graveyard_5.fbx
+  artifactKey: Guid(3e79c7eb53342fc46ab58d26656c144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_5.fbx using Guid(3e79c7eb53342fc46ab58d26656c144c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1834609cbb199452bdf1273a9aefb4f') in 0.087733 seconds
+  Import took 0.093639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.385367 seconds.
+  path: Assets/Graveyard/UVGrave_2.png
+  artifactKey: Guid(1bad14032f5c28543a49ba4c10679c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_2.png using Guid(1bad14032f5c28543a49ba4c10679c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ceeafd29624b91e38bee510dedd181') in 0.031677 seconds
+  Import took 0.054470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Graveyard/UVGrave_6.png
+  artifactKey: Guid(e5dc3935ad8e10c4fbcd5fcaaeed25b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_6.png using Guid(e5dc3935ad8e10c4fbcd5fcaaeed25b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669a8c34e5bee890262fcf6085f6151a') in 0.036573 seconds
+  Import took 0.043048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000843 seconds.
+  path: Assets/Graveyard/UVGrave_5.png
+  artifactKey: Guid(ebf403fbf8b37e1419e70b48514dc1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_5.png using Guid(ebf403fbf8b37e1419e70b48514dc1b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef7c34e3e6309a846d5f4fbeba2a650') in 0.089183 seconds
+  Import took 0.093163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.970432 seconds.
+  path: Assets/Graveyard/UVGrave_3.png
+  artifactKey: Guid(01c494d786b46be4983ad48a939dfeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_3.png using Guid(01c494d786b46be4983ad48a939dfeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ca5d3c18ac00d3b76fd42f5efb8f75') in 0.037914 seconds
+  Import took 0.044583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007963 seconds.
+  path: Assets/Graveyard/UVGrave_3.png
+  artifactKey: Guid(01c494d786b46be4983ad48a939dfeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_3.png using Guid(01c494d786b46be4983ad48a939dfeac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ca5d3c18ac00d3b76fd42f5efb8f75') in 0.020358 seconds
+  Import took 0.031466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.209966 seconds.
+  path: Assets/Graveyard/UVGrave_1.png
+  artifactKey: Guid(74484768e514ec44dbd0ab56b48dac20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_1.png using Guid(74484768e514ec44dbd0ab56b48dac20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9fdf5aff2a8c376106b44e0ab15588') in 0.039021 seconds
+  Import took 0.047842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009205 seconds.
+  path: Assets/Graveyard/UVGrave_1.png
+  artifactKey: Guid(74484768e514ec44dbd0ab56b48dac20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_1.png using Guid(74484768e514ec44dbd0ab56b48dac20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9fdf5aff2a8c376106b44e0ab15588') in 0.016840 seconds
+  Import took 0.022324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.517969 seconds.
+  path: Assets/Graveyard/graveyard_1.prefab
+  artifactKey: Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_1.prefab using Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87454cc5873fe277b6a60209c792852d') in 0.056549 seconds
+  Import took 0.060831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002659 seconds.
+  path: Assets/Graveyard/graveyard_1.prefab
+  artifactKey: Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_1.prefab using Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87454cc5873fe277b6a60209c792852d') in 0.024300 seconds
+  Import took 0.030734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.330625 seconds.
+  path: Assets/Graveyard/Materials
+  artifactKey: Guid(897a881ad3e2b9540967c6b6e79540fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Materials using Guid(897a881ad3e2b9540967c6b6e79540fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57254d56424654f59c070317d982c1ea') in 0.019497 seconds
+  Import took 0.027764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.881240 seconds.
+  path: Assets/Graveyard/New Material.mat
+  artifactKey: Guid(7fa6647ba4c855340805e9bef8cb2542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/New Material.mat using Guid(7fa6647ba4c855340805e9bef8cb2542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c16890de7bdd68f5b252ad8b4046b8ae') in 0.380985 seconds
+  Import took 0.385234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.461739 seconds.
+  path: Assets/Graveyard/graveyard_5.prefab
+  artifactKey: Guid(ac51aa5ad5b9c024d8930f0fdde8a856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_5.prefab using Guid(ac51aa5ad5b9c024d8930f0fdde8a856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff924a9a64d6b4ee431dfd59bd1a9d67') in 0.026854 seconds
+  Import took 0.033327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041862 seconds.
+  path: Assets/Graveyard/graveyard_5.prefab
+  artifactKey: Guid(ac51aa5ad5b9c024d8930f0fdde8a856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_5.prefab using Guid(ac51aa5ad5b9c024d8930f0fdde8a856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff924a9a64d6b4ee431dfd59bd1a9d67') in 0.026284 seconds
+  Import took 0.038092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.334579 seconds.
+  path: Assets/Temple/Temple.prefab
+  artifactKey: Guid(1ad9a52bdaace7f4db924d0abd0daee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.prefab using Guid(1ad9a52bdaace7f4db924d0abd0daee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55384d948c799732f28945ffe415f44e') in 0.046278 seconds
+  Import took 0.075799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007392 seconds.
+  path: Assets/Temple/Temple.prefab
+  artifactKey: Guid(1ad9a52bdaace7f4db924d0abd0daee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Temple/Temple.prefab using Guid(1ad9a52bdaace7f4db924d0abd0daee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55384d948c799732f28945ffe415f44e') in 0.052586 seconds
+  Import took 0.059321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.482158 seconds.
+  path: Assets/Graveyard/New Material 1.mat
+  artifactKey: Guid(7f67035467e40404998632beba3f4f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/New Material 1.mat using Guid(7f67035467e40404998632beba3f4f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6979c1ff42afcf605f1614f39e2ee1ad') in 0.060046 seconds
+  Import took 0.066122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.277268 seconds.
+  path: Assets/Graveyard/graveyard_2.prefab
+  artifactKey: Guid(66dd16fe4a5d3324fa5c9c091a386dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_2.prefab using Guid(66dd16fe4a5d3324fa5c9c091a386dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b85ed739110d424b2f876db26590d2') in 0.034810 seconds
+  Import took 0.040683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025501 seconds.
+  path: Assets/Graveyard/graveyard_2.prefab
+  artifactKey: Guid(66dd16fe4a5d3324fa5c9c091a386dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_2.prefab using Guid(66dd16fe4a5d3324fa5c9c091a386dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b85ed739110d424b2f876db26590d2') in 0.018756 seconds
+  Import took 0.022728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.372275 seconds.
+  path: Assets/Graveyard/graveyard_4.prefab
+  artifactKey: Guid(e1d0ead4223c786469a358d08d8aa7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_4.prefab using Guid(e1d0ead4223c786469a358d08d8aa7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5aff3559748a671e01fab3798ba1b2') in 0.033458 seconds
+  Import took 0.047130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017548 seconds.
+  path: Assets/Graveyard/graveyard_4.prefab
+  artifactKey: Guid(e1d0ead4223c786469a358d08d8aa7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_4.prefab using Guid(e1d0ead4223c786469a358d08d8aa7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5aff3559748a671e01fab3798ba1b2') in 0.019835 seconds
+  Import took 0.024920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.724305 seconds.
+  path: Assets/Graveyard/graveyard_6.prefab
+  artifactKey: Guid(b79e1d0041687e2458999f09081dfff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_6.prefab using Guid(b79e1d0041687e2458999f09081dfff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d407814c352dab7c10b32ce9c7ecb1') in 0.031601 seconds
+  Import took 0.057601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008174 seconds.
+  path: Assets/Graveyard/graveyard_6.prefab
+  artifactKey: Guid(b79e1d0041687e2458999f09081dfff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_6.prefab using Guid(b79e1d0041687e2458999f09081dfff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d407814c352dab7c10b32ce9c7ecb1') in 0.021693 seconds
+  Import took 0.026864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 300.786074 seconds.
+  path: Assets/Graveyard/graveyard_1.prefab
+  artifactKey: Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_1.prefab using Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01675f8556bcf7a5565255e5444592d2') in 0.032205 seconds
+  Import took 0.037918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059890 seconds.
+  path: Assets/Graveyard/graveyard_1.prefab
+  artifactKey: Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/graveyard_1.prefab using Guid(ad57faabac3e9f148907e1c128f59ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01675f8556bcf7a5565255e5444592d2') in 0.022022 seconds
+  Import took 0.028168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.611623 seconds.
+  path: Assets/Graveyard/Prefab
+  artifactKey: Guid(b0b34bec75b0cc340b0b7136cda69f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab using Guid(b0b34bec75b0cc340b0b7136cda69f0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a002c766992914bcfb0b6782cbcc7b5') in 0.026369 seconds
+  Import took 0.032260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.151075 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_2.prefab
+  artifactKey: Guid(17c4df96a006bc1489d51e37a01d902a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_2.prefab using Guid(17c4df96a006bc1489d51e37a01d902a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e919af2e5a865152c202fb1facb78b0d') in 0.036954 seconds
+  Import took 0.041509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029577 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_2.prefab
+  artifactKey: Guid(17c4df96a006bc1489d51e37a01d902a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_2.prefab using Guid(17c4df96a006bc1489d51e37a01d902a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e919af2e5a865152c202fb1facb78b0d') in 0.019196 seconds
+  Import took 0.024205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.528067 seconds.
+  path: Assets/Graveyard/New Material 2.mat
+  artifactKey: Guid(639e6a188f6049a49873fbe6fe7ac924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/New Material 2.mat using Guid(639e6a188f6049a49873fbe6fe7ac924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9083ecbc77ba307228872c0333f9e8a') in 0.033473 seconds
+  Import took 0.039791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.538659 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_3.prefab
+  artifactKey: Guid(c2e0e6082c100d946b74d00831bd0b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_3.prefab using Guid(c2e0e6082c100d946b74d00831bd0b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f077e7f2bbfa4b28ab9d6cf5207322') in 0.033487 seconds
+  Import took 0.038350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033316 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_3.prefab
+  artifactKey: Guid(c2e0e6082c100d946b74d00831bd0b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_3.prefab using Guid(c2e0e6082c100d946b74d00831bd0b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f077e7f2bbfa4b28ab9d6cf5207322') in 0.046378 seconds
+  Import took 0.052619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.177555 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4.prefab
+  artifactKey: Guid(31ca8fac9c1c7c24db872fd0c95779af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4.prefab using Guid(31ca8fac9c1c7c24db872fd0c95779af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186824611e9440ae428c5b74da96843b') in 0.029757 seconds
+  Import took 0.098620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000896 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4.prefab
+  artifactKey: Guid(31ca8fac9c1c7c24db872fd0c95779af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4.prefab using Guid(31ca8fac9c1c7c24db872fd0c95779af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186824611e9440ae428c5b74da96843b') in 0.027218 seconds
+  Import took 0.034331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.210482 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4 1.prefab
+  artifactKey: Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4 1.prefab using Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859efe44a17088b0aa206b9f2c1b54c3') in 0.034801 seconds
+  Import took 0.040445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039347 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4 1.prefab
+  artifactKey: Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4 1.prefab using Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859efe44a17088b0aa206b9f2c1b54c3') in 0.028572 seconds
+  Import took 0.032343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.551257 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4.prefab
+  artifactKey: Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4.prefab using Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3b6de1bedea06ccac520ab503c1e02') in 0.024603 seconds
+  Import took 0.038879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018279 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4.prefab
+  artifactKey: Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4.prefab using Guid(806fc9a117a6a4e44a230719112b2dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3b6de1bedea06ccac520ab503c1e02') in 0.023689 seconds
+  Import took 0.030320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.070638 seconds.
+  path: Assets/Graveyard/UVGrave_4.png
+  artifactKey: Guid(7bf216134b240774bbcd3af8d19d2dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/UVGrave_4.png using Guid(7bf216134b240774bbcd3af8d19d2dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890b722bc1d969841a241011b7f82c54') in 0.039832 seconds
+  Import took 0.052566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.053087 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_5.prefab
+  artifactKey: Guid(3a7eda99a5734ca4583c70489eeaa749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_5.prefab using Guid(3a7eda99a5734ca4583c70489eeaa749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734e8864480cc06bdb2827daa5b181bb') in 0.116467 seconds
+  Import took 0.133643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013021 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_5.prefab
+  artifactKey: Guid(3a7eda99a5734ca4583c70489eeaa749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_5.prefab using Guid(3a7eda99a5734ca4583c70489eeaa749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734e8864480cc06bdb2827daa5b181bb') in 0.038042 seconds
+  Import took 0.046546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.947249 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6.prefab
+  artifactKey: Guid(78b9752d7bbf14b459426081e4bef451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6.prefab using Guid(78b9752d7bbf14b459426081e4bef451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d134d53a3be8e278720fa3bf49ac2a') in 0.030446 seconds
+  Import took 0.036029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033164 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6.prefab
+  artifactKey: Guid(78b9752d7bbf14b459426081e4bef451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6.prefab using Guid(78b9752d7bbf14b459426081e4bef451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d134d53a3be8e278720fa3bf49ac2a') in 0.020521 seconds
+  Import took 0.025383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.917046 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_1 1.prefab
+  artifactKey: Guid(a7c9ffb46d366fc4aa58db0e321cb3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_1 1.prefab using Guid(a7c9ffb46d366fc4aa58db0e321cb3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc697e20d620f03797af36744801a7b7') in 0.096073 seconds
+  Import took 0.154489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.110742 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_2 1.prefab
+  artifactKey: Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_2 1.prefab using Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a20aa3ed5754c13fad6aa6251d677c2') in 0.035292 seconds
+  Import took 0.040516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026358 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_2 1.prefab
+  artifactKey: Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_2 1.prefab using Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a20aa3ed5754c13fad6aa6251d677c2') in 0.020225 seconds
+  Import took 0.025965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.078663 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_3 1.prefab
+  artifactKey: Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_3 1.prefab using Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60655da6d81ce92ba1b15baf6d0683e2') in 0.053310 seconds
+  Import took 0.058785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016520 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_3 1.prefab
+  artifactKey: Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_3 1.prefab using Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60655da6d81ce92ba1b15baf6d0683e2') in 0.019505 seconds
+  Import took 0.024268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.486914 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4 1.prefab
+  artifactKey: Guid(eb36b9afca6c6b34c86fd2272cc395f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4 1.prefab using Guid(eb36b9afca6c6b34c86fd2272cc395f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea6e213d48e0a9199b0236a629a4d16') in 0.032264 seconds
+  Import took 0.063653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007524 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4 1.prefab
+  artifactKey: Guid(eb36b9afca6c6b34c86fd2272cc395f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4 1.prefab using Guid(eb36b9afca6c6b34c86fd2272cc395f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea6e213d48e0a9199b0236a629a4d16') in 0.023361 seconds
+  Import took 0.027661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.668430 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_5 1.prefab
+  artifactKey: Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_5 1.prefab using Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8d91605c6493cb2964195263f68c86') in 0.039296 seconds
+  Import took 0.047025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066959 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_5 1.prefab
+  artifactKey: Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_5 1.prefab using Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8d91605c6493cb2964195263f68c86') in 0.112343 seconds
+  Import took 0.160661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.699617 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6 1.prefab
+  artifactKey: Guid(54fb875891865cb448f2e3ecb98a98ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6 1.prefab using Guid(54fb875891865cb448f2e3ecb98a98ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7722005b57635e98ca7e2ad2e152ea22') in 0.066719 seconds
+  Import took 0.101834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.773872 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_1.prefab
+  artifactKey: Guid(a7c9ffb46d366fc4aa58db0e321cb3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_1.prefab using Guid(a7c9ffb46d366fc4aa58db0e321cb3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68427d913755a1e747f493bc556a34ce') in 0.126758 seconds
+  Import took 0.134938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.580508 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_2.prefab
+  artifactKey: Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_2.prefab using Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461cdc7fece6bd7e803ce988b4ec586f') in 0.022504 seconds
+  Import took 0.043426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016265 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_2.prefab
+  artifactKey: Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_2.prefab using Guid(b508b80ef340d834ba23d720fe5cca78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461cdc7fece6bd7e803ce988b4ec586f') in 0.086745 seconds
+  Import took 0.107537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.800826 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_3.prefab
+  artifactKey: Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_3.prefab using Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '348de1308faf0b242b87e28c99e1d311') in 0.025023 seconds
+  Import took 0.030216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026128 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_3.prefab
+  artifactKey: Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_3.prefab using Guid(8037550f8725dbb47961219dd8eca9b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '348de1308faf0b242b87e28c99e1d311') in 0.029989 seconds
+  Import took 0.035190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.207140 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_4.prefab
+  artifactKey: Guid(eb36b9afca6c6b34c86fd2272cc395f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_4.prefab using Guid(eb36b9afca6c6b34c86fd2272cc395f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2fe7386b09a9acf68683551652ad83') in 0.057693 seconds
+  Import took 0.079816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.470036 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_5.prefab
+  artifactKey: Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_5.prefab using Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e2fee1417ad18db1ae15a4325d6ea7') in 0.027714 seconds
+  Import took 0.032285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028560 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_5.prefab
+  artifactKey: Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_5.prefab using Guid(c72ffd7688906e546a3eaf2e5a8f5543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e2fee1417ad18db1ae15a4325d6ea7') in 0.031632 seconds
+  Import took 0.037090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.483621 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6 1 1.prefab
+  artifactKey: Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6 1 1.prefab using Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c70caf2ba1f75e4e1c841542cde48d') in 0.045076 seconds
+  Import took 0.055425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029924 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6 1 1.prefab
+  artifactKey: Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6 1 1.prefab using Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c70caf2ba1f75e4e1c841542cde48d') in 0.079904 seconds
+  Import took 0.086140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.721760 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6 1.prefab
+  artifactKey: Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6 1.prefab using Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98777d1a4d5060956393d0a761249c7c') in 0.051210 seconds
+  Import took 0.060017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005120 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6 1.prefab
+  artifactKey: Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6 1.prefab using Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98777d1a4d5060956393d0a761249c7c') in 0.030710 seconds
+  Import took 0.037011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.248768 seconds.
+  path: Assets/Graveyard/Prefab/graveyard_6.prefab
+  artifactKey: Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graveyard/Prefab/graveyard_6.prefab using Guid(f4b510b2319bfc745aeecab9f6a54447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed67a0fc9ebc5f5cd509ee056ff545e6') in 0.072378 seconds
+  Import took 0.090734 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
